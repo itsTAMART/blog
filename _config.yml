@@ -1,25 +1,23 @@
-title: Shit I tell the world
+title: Things
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal blog for Daniel Tapia Martinez. 
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Malcone Marino # add your name
-author-img:  world1.gif # add your photo
-about-author: Church-key blog messenger bag. # add description
-social-twitter:  # add your Twitter handle
+author: Daniel Tapia Martínez # add your name
+author-img:  T.jpg # add your photo
+about-author:  Tamart # add description
+social-twitter:  itsTamart # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: malcommarin # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: itsTamart # add your Github handle
+social-linkedin: tamart # add your Linkedin handle
+social-email: tamart.daniel @gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

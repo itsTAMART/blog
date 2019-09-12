@@ -1,4 +1,4 @@
-title: Things
+title: blog
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog for Daniel Tapia Martinez. 
 permalink: ':title/'
@@ -17,7 +17,7 @@ social-linkedin: tamart # add your Linkedin handle
 social-email: tamart.daniel @gmail.com # add your Email address
 
 # Disqus
-discus-identifier: # add your discus identifier
+discus-identifier: dtamart # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

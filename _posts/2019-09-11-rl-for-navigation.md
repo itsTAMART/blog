@@ -44,8 +44,8 @@ The development of this experiment led to a **paper** published in the  *27th Eu
 
 
 
-*link to Master Thesis: [link]()*
+*link to Master Thesis: [link](https://github.com/itsTAMART/Master-Thesis/blob/master/MasterThesis_Daniel_Tapia.pdf)*
 
-*link to Paper: [link]()*
+*link to Paper: [link](https://github.com/itsTAMART/Master-Thesis/blob/master/Tapia2019Deep.pdf)*
 
-*link to Code: [link]()*
+*link to Code: [link](https://github.com/itsTAMART/UAV-RL-environment)*

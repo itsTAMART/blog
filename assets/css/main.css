@@ -785,10 +785,18 @@ h1 {
   font-weight: 400;
 }
 
+iframe {
+  max-width: 100%;
+  vertical-align: middle;
+  display: block;
+  margin: auto;
+}
+
 img {
   max-width: 100%;
   vertical-align: middle;
-  display: inline-block;
+  display: block;
+  margin: auto;
 }
 
 img + em {

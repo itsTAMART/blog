@@ -12,7 +12,7 @@ tags: [Data Visualization, Music Theory, Javascript] # add tag
 
 # 3D Music Scales
 
-This is an interactive 3D visualization of the most famous music scales and their relations made with Three.js. It was done 
+This is an interactive 3D visualization of the most famous music scales and their relations made with Three.js.
 
 [[demo]](https://itstamart.github.io/3d-music-scales)  [[code]](https://github.com/itsTAMART/3d-music-scales)
 
